@@ -15,8 +15,8 @@
 7- (...) CALVIN**
 
 **Structure du dossier de projet :**
-× **Feuille de route** : il s'agit d'un aperçu global du projet incluant objectifs, activités et livrables
-× **Orientations** : il s'agit des orientations données par le superviseur, le prof
-× **planification :** document de planification de nos activités
-× **suivi** : permet de tracker l'évolution du projet
-× dossier **Livrables** : contient les produits attendus tel que le rapport
+- **Feuille de route** : il s'agit d'un aperçu global du projet incluant objectifs, activités et livrables
+- **Orientations** : il s'agit des orientations données par le superviseur, le prof
+- **planification :** document de planification de nos activités
+- **suivi** : permet de tracker l'évolution du projet
+- dossier **Livrables** : contient les produits attendus tel que le rapport
