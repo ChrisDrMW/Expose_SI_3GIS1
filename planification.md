@@ -5,3 +5,7 @@
 - Mardi **25 nov** - Lundi **1er dec**
 - Mardi **2 déc** - **Présentation**
 
+Tâches de gestion :
+- [x] Configurer git
+- [ ] Subdivision du travail
+- [ ] répartition de charges
