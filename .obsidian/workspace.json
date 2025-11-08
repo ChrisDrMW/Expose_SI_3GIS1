@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Feuille de route.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Feuille de route"
+              "title": "README"
             }
           }
         ],
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Feuille de route.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Feuille de route"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Feuille de route.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Feuille de route"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Feuille de route.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Feuille de route"
+              "title": "Outline of README"
             }
           }
         ]
@@ -214,8 +214,8 @@
   },
   "active": "913beda91252894e",
   "lastOpenFiles": [
-    "EXPOSE DE SCIENCE DE L'INFORMATION - généralités.md",
     "Feuille de route.md",
+    "EXPOSE DE SCIENCE DE L'INFORMATION - généralités.md",
     "Suivi.md",
     "Orientations.md",
     "planification.md",
