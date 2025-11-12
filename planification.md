@@ -1,8 +1,8 @@
-# Plannification
+# Planification
 ***
 ## *Semaine 1 : Mardi **04 nov** - Lundi **10 nov** : **Phase P-01***
 
-**TRAVAIL À FAIRE** par **chaque membre** et pour **chaque sous-thème** composant le thème :
+**TRAVAIL À FAIRE** (dans un doc PDF) par **chaque membre** et pour **chaque sous-thème** composant le thème :
 - **Définition des mots** composants le sujet
 - **objet principal du sujet** : de quoi s'agit-il ?
 - **Origines et évolution/ramification** : les axes de développement à partir de l'origine ou premiere formalisation du sujet
@@ -21,7 +21,7 @@
 ***
 # Suivi
 ***
-- [ ] **P-01** : récupération des travaux
+- [ ] **P-01** : récupération des travaux (**en pdf**)
 	- [ ] de Milene
 	- [ ] de Christian
 	- [ ] de Franck
