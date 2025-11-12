@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "planification.md",
+                "file": "planification et suivi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "planification"
+              "title": "planification et suivi"
             }
           },
           {
@@ -209,12 +209,12 @@
   },
   "active": "d55c9a0ae3d5d3a2",
   "lastOpenFiles": [
+    "Feuille de route.md",
+    "Orientations.md",
+    "planification et suivi.md",
     "EXPOSE DE SCIENCE DE L'INFORMATION - généralités.md",
     "README.md",
-    "Orientations.md",
-    "planification.md",
     "Suivi.md",
-    "Feuille de route.md",
     "Livrables/P-01",
     "Livrables"
   ]

@@ -9,6 +9,7 @@
 - **motivations** : intérêts pratiques offerts par le sujet
 - **problématique liés** : ensemble des problèmes se posant sur un sujet déterminé
 
+**NB : L'objectif est de prendre des bases solides**
 ## *Semaine 2 : Mardi **11 nov** - Lundi **17 nov***  :
 - [ ] [Date à préciser] 1ere rencontre des membres du groupe + presentation en 6 min du travail précédent par chacun
 
