@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "planification et suivi.md",
+                "file": "EXPOSE DE SCIENCE DE L'INFORMATION - généralités.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "planification et suivi"
+              "title": "EXPOSE DE SCIENCE DE L'INFORMATION - généralités"
             }
           },
           {
@@ -209,9 +209,9 @@
   },
   "active": "d55c9a0ae3d5d3a2",
   "lastOpenFiles": [
+    "planification et suivi.md",
     "Feuille de route.md",
     "Orientations.md",
-    "planification et suivi.md",
     "EXPOSE DE SCIENCE DE L'INFORMATION - généralités.md",
     "README.md",
     "Suivi.md",
