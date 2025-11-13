@@ -1,0 +1,27 @@
+I. Fonctions de hachage
+----------------------------------------------------------------------------
+1.Définition des mots
+
+2. Objet principal : de quoi s'agit-il ?
+
+3. Origines et évolution/ramification : les axes de développement à partir de l'origine ou premiere formalisation des fonctions de hachage
+
+4.motivations : intérêts pratiques des fonctions de hachage
+
+5.problématique liés : ensemble des problèmes se posant sur les fonctions de hachage
+
+
+============================================================================
+
+
+II. Signatures numériques
+-----------------------------------------------------------------------------
+1.Définition des mots
+
+2. Objet principal : de quoi s'agit-il ?
+
+3. Origines et évolution/ramification : les axes de développement à partir de l'origine ou premiere formalisation sur les signatures numériques
+
+4.motivations : intérêts pratiques des signatures numériques
+
+5.problématique liés : ensemble des problèmes se posant sur les signatures numériques 
