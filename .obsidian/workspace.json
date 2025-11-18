@@ -1,62 +1,24 @@
 {
   "main": {
-    "id": "9c291d2e795501c7",
+    "id": "6bc9d9442b8ca59d",
     "type": "split",
     "children": [
       {
-        "id": "9530412335f6f021",
+        "id": "cf7577eb0d8136bd",
         "type": "tabs",
         "children": [
           {
-            "id": "d55c9a0ae3d5d3a2",
+            "id": "84da9adedd043c5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EXPOSE DE SCIENCE DE L'INFORMATION - généralités.md",
+                "file": "Livrables/P-01/plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EXPOSE DE SCIENCE DE L'INFORMATION - généralités"
-            }
-          },
-          {
-            "id": "be4b0904eef838d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "planification.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "planification"
-            }
-          },
-          {
-            "id": "82ea07f9e8e4ece5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "913beda91252894e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "plan"
             }
           }
         ]
@@ -65,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ef14d679a2c89d49",
+    "id": "d7fbb3075c4b4a99",
     "type": "split",
     "children": [
       {
-        "id": "58a03f800be6b49e",
+        "id": "6954ad86c611f215",
         "type": "tabs",
         "children": [
           {
-            "id": "da1b372b4f8cd09a",
+            "id": "a6548e740b29eb7c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -86,7 +48,7 @@
             }
           },
           {
-            "id": "616f4f426daeb4c7",
+            "id": "214d0ef1e80a8be6",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -103,7 +65,7 @@
             }
           },
           {
-            "id": "9331659fc95d6619",
+            "id": "a32920e636572e39",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -119,20 +81,19 @@
     "width": 300
   },
   "right": {
-    "id": "0b4d43fc10723283",
+    "id": "c993bcc5deadb475",
     "type": "split",
     "children": [
       {
-        "id": "ed9c41516fc92efa",
+        "id": "9924341bfa006b69",
         "type": "tabs",
         "children": [
           {
-            "id": "9b6e60ada9af05da",
+            "id": "39934b95e68ca117",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "planification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,25 +103,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for planification"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "614695679bc3e48a",
+            "id": "29e3ffa0d8c34f5d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "planification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from planification"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "5331c395fbebade8",
+            "id": "e4e3e6171f5d9072",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -175,18 +135,17 @@
             }
           },
           {
-            "id": "efb1c7796163ab42",
+            "id": "3f3678a22b0de699",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "planification.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of planification"
+              "title": "Outline"
             }
           }
         ]
@@ -207,22 +166,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "d55c9a0ae3d5d3a2",
+  "active": "84da9adedd043c5b",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "planification et suivi.md",
-    "Feuille de route.md",
-    "Orientations.md",
-=======
-    "Livrables/P-01/modele_template.txt",
->>>>>>> 96e7b9053f97ee7604537091c5c80c6e8bad726d
     "EXPOSE DE SCIENCE DE L'INFORMATION - généralités.md",
-    "Feuille de route.md",
     "Orientations (du prof).md",
-    "planification et suivi.md",
-    "README.md",
-    "Suivi.md",
-    "Livrables/P-01",
-    "Livrables"
+    "Livrables/P-01/plan.md"
   ]
 }

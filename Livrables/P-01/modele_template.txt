@@ -1,6 +1,7 @@
 I. Fonctions de hachage
 ----------------------------------------------------------------------------
 1.Définition des mots
+Fonction : c'est 
 
 2. Objet principal : de quoi s'agit-il ?
 
