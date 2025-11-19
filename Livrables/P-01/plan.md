@@ -1,6 +1,7 @@
+[Version provisoire]
 # Fonctions de hachage
 ## Introduction
-## I. Defs
+## I. Définition
 Une fonction de hachage est donc une fonction mathématique qui prend comme argument une chaine de bits de longueur arbitraire finie (le message) et restitue en sortie une chaîne de longueur fixée : l'empreinte ou haché ou encore condensat.
 - **fonction simple :** celle qui calcule directement et simplement le hash
 - **fonction cryptographique** : celle qui possède des propriétés de sécurité
