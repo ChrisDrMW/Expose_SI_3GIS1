@@ -24,9 +24,10 @@ Nous allons présenter deux extenseurs :
  - def
  - importance (dans la sécurité de l'information)
 ## Motivations
-## Principes de base de la crypto asymétrique + PKI
+## Principes de base de la crypto asymétrique + PKI (CA, certificat numérique, format X.509, chaine de confiance)
 
 ## Techniques de signatures numériques
+Nous allons traiter 3 exemples classique et 1 exemple post-quantique
 - RSA
 - DSA
 - ECDSA
