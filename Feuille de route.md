@@ -19,6 +19,6 @@ Acquérir des connaissances (chaque membre) et les transmettre lors de la prése
 #### P-022 : todo
 
 # Sur la mesure de la participation de chaque membre
-Pour chaque membre, le pourcentage de participation au projet se mesurera comme la **proportion de tâches réalisées** par rapport à l'ensemble des tâches qui lui ont été attribuées. Cependant, une **pénalité de -5%** sera imputé pour non respect de délai pour chaque phase.
+Pour chaque membre, le pourcentage de participation au projet se mesurera comme la **proportion de tâches réalisées** par rapport à l'ensemble des tâches qui lui ont été attribuées. Cependant, une **pénalité de -5%** sera imputé pour non respect de délai pour chaque phase et **-2%** pour chaque absence aux rencontres.
 
 # \_blank

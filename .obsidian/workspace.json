@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Livrables/P-01/plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "plan"
             }
           }
         ]
@@ -169,12 +169,13 @@
   },
   "active": "84da9adedd043c5b",
   "lastOpenFiles": [
+    "README.md",
+    "Livrables/P-01/plan.md",
     "Livrables/P-02",
     "répartitionPDF.pdf",
     "lu6267y8es.tmp",
     "répartition.odt",
     "lu6267y8eo.tmp",
-    "Livrables/P-01/plan.md",
     "EXPOSE DE SCIENCE DE L'INFORMATION - généralités.md",
     "Orientations (du prof).md"
   ]
